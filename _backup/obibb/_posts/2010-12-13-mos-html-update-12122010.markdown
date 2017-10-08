@@ -1,0 +1,475 @@
+---
+author: makumbe
+comments: true
+date: 2010-12-13 11:30:24+00:00
+layout: post
+link: http://blog.daanalytics.nl/2010/12/13/mos-html-update-12122010/
+slug: mos-html-update-12122010
+title: MOS HTML Update 12122010
+wordpress_id: 637
+categories:
+- My Oracle Support
+tags:
+- MOS
+- Oracle BI EE
+---
+
+﻿
+<table cellpadding="2" cellspacing="3" align="center" border="1" width="100%" >
+<tbody >
+<tr >
+ Document ID 
+ Title 
+ Doc Type 
+ Modified Date 
+</tr>
+<tr >
+
+<td >1272832.1
+</td>
+
+<td >[Add Non Analytics User to Delivers recipients](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272832.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >09-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272396.1
+</td>
+
+<td >[OBIEE 11.1g LDAP Security [53017] Failed to load LDAP Library: ldap.dll](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272396.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >08-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1213834.1
+</td>
+
+<td >[How To Install Obiee 11.1.1.3.0 With WLS And Java 64 Bits On A Certified And Supported Operating System.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1213834.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >06-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272771.1
+</td>
+
+<td >[OBIEE 11g 11.1.1.3: How do you specify Node Manager Port in staticports.ini?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272771.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >09-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272839.1
+</td>
+
+<td >[Obiee 11g Enterprise Deployment Question for Apache](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272839.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >09-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272851.1
+</td>
+
+<td >[OBIEE 10.1.3.4.1 On Windows 2003 R2 X64 Fails With Java Host Error "%1 Is Not A Valid Win32 Application"](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272851.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >09-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1196094.1
+</td>
+
+<td >[OBIEE 11g Configuration Assistant On Windows Fails To Start The Cluster Controleer (Obiccs1) With Error Nqserror: 46036](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1196094.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >09-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273149.1
+</td>
+
+<td >[Reports With Filters That Reference Presentation Variables Error After Upgrading to 10.1.3.4.1 Or Higher](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273149.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >10-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273289.1
+</td>
+
+<td >[Obiee 11g Compatibility With Websphere 6.1](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273289.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >10-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1072236.1
+</td>
+
+<td >[The OBIEE 10g Installer Hangs/Stops On Linux/Unix With No Error Messages](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1072236.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >08-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1271818.1
+</td>
+
+<td >[Scheduled Ibots Error In Reports: Maximum Number Of Sessions Exceeded](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1271818.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >06-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >819373.1
+</td>
+
+<td >[Title to Oracle Business Analytics Warehouse Data Model Reference Version 7.9.6, 7.9.6.1 and 7.9.6.2](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=819373.1)
+</td>
+
+<td >REFERENCE
+</td>
+
+<td >08-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1271780.1
+</td>
+
+<td >[OBIEE 11g 11.1.1.3 Disable Table and Pivot Table Interactions On Dashboard Views](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1271780.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >06-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1270984.1
+</td>
+
+<td >[Column Heading Navigation Using an Action Link Ignores a Report-level Prompt](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1270984.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >06-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272050.1
+</td>
+
+<td >[Obiee 11g](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272050.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >07-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272902.1
+</td>
+
+<td >[Obiee Embedded In A Web Application Using iFrame returned "OBIEE content cannot be displayed in an IFrame?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272902.1)
+</td>
+
+<td >SAMPLE CODE
+</td>
+
+<td >09-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272629.1
+</td>
+
+<td >[Column Sort In Dashboard Does Not Work When The Result Is Too Large in OBIEE](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272629.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >08-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1252734.1
+</td>
+
+<td >[GL Transaction Amounts are Multiplied when Drilling Down from Segment Code](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1252734.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >06-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272855.1
+</td>
+
+<td >[Cannot Save report with many columns in Hebrew using IE7](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272855.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >09-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272836.1
+</td>
+
+<td >[Ui Javascript Calendar Component Does Not Work Correctly](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272836.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >09-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272391.1
+</td>
+
+<td >[Oracle Time And Labour Report In Hr Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272391.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >08-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272784.1
+</td>
+
+<td >[Lose The Data Of The Columns Selectors](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272784.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >09-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1227933.1
+</td>
+
+<td >[OBIEE / OCI Error : ORA-03113](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1227933.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >07-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273192.1
+</td>
+
+<td >[Disconnected Analytics Installation Fails If .Net 2.0 Is Not Present](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273192.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >10-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272852.1
+</td>
+
+<td >[Obiee 11.1.1.3.0 Doesen'T Translate Lable Of Dashboard Prompts](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272852.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >09-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273051.1
+</td>
+
+<td >[Oracle Bi Administrator Crashes When Attempting To Resolve Inconsistancies.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273051.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >10-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1271800.1
+</td>
+
+<td >[Obiee And Essbase Connectivity Error "wrong ELF class: ELFCLASS32"](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1271800.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >06-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272248.1
+</td>
+
+<td >[BI Publisher OID Login From OBIEE](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272248.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >07-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272875.1
+</td>
+
+<td >[When Administrator user clicks on a user's directory in catalog manager , "access denied for user to path /users/user498"](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272875.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >09-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1252995.1
+</td>
+
+<td >[SIL_SalesBookingLinesFact_Load_OrderLine_Debt fails and throws ORA-00001 Unique Constraint Violated](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1252995.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >06-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272423.1
+</td>
+
+<td >[Performance of the 'MASTER_SDE_DIMENSION' Scenario is very slow](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272423.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >08-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272164.1
+</td>
+
+<td >[Obi Apps 7.9.6.2 Installation And Setup On Linux](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272164.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >07-DEC-10
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,7027 @@
+---
+author: makumbe
+comments: true
+date: 2011-01-31 11:42:00+00:00
+layout: post
+link: http://blog.daanalytics.nl/2011/01/31/751/
+slug: '751'
+title: Oracle MOS HTML Update 23012011
+wordpress_id: 751
+categories:
+- My Oracle Support
+tags:
+- MOS
+- OBIEE
+- Oracle Business Analytics
+---
+
+<table cellpadding="2" cellspacing="3" align="center" border="1" width="100%" >
+<tbody >
+<tr >
+ Document ID 
+ Title 
+ Doc Type 
+ Modified Date 
+</tr>
+<tr >
+
+<td >498750.1
+</td>
+
+<td >[LDAP or IIS Authentication?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=498750.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >514129.1
+</td>
+
+<td >[Customize iBots when using proxy user functionality: for filters other than "is prompted](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=514129.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >578586.1
+</td>
+
+<td >[Unable to save reports when using Act As functionality](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=578586.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >498457.1
+</td>
+
+<td >[Issue with Single Sign On](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=498457.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >521872.1
+</td>
+
+<td >[Analytics - Password Change](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=521872.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >518894.1
+</td>
+
+<td >[LDAP authentication : Is it possible to modify the configuration to use the field "alias"?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=518894.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >485485.1
+</td>
+
+<td >[Position AND Organization data level security leads to multiplied data in Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=485485.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >501025.1
+</td>
+
+<td >[Setting up Integrated ADSI with Analytics running on HP/UX 11.0](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=501025.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >501125.1
+</td>
+
+<td >[Siebel Application and Analytics SSO Integration](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=501125.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >509803.1
+</td>
+
+<td >[View Log for Admin](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=509803.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >563426.1
+</td>
+
+<td >[Not allow users to log into Analytics when they have got a status set Inactive](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=563426.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >490785.1
+</td>
+
+<td >[Error When Trying To Login](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=490785.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >536063.1
+</td>
+
+<td >[Password Validation for Analytics in eBusiness](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=536063.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >535439.1
+</td>
+
+<td >[Would you possible another question about LDAP?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=535439.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >730652.1
+</td>
+
+<td >[Login screen comes up trying 2 authenticate Siebel 8 & OBIEE 10.1.3.3 using WIA](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=730652.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >542225.1
+</td>
+
+<td >[Analytics Dashboard Permissions](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=542225.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >482272.1
+</td>
+
+<td >[Special Characters in Password](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=482272.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >546589.1
+</td>
+
+<td >[Need information about use of ODBC connections combined with SSO](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=546589.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >580040.1
+</td>
+
+<td >[Unable to navigate between screens without authenticate](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=580040.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >564105.1
+</td>
+
+<td >[Global filters nor working with LDAP](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=564105.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >512137.1
+</td>
+
+<td >[Hide password](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=512137.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >542947.1
+</td>
+
+<td >[Secure communication](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=542947.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >482984.1
+</td>
+
+<td >[Unable to Add a Security Group as a Member other Groups](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=482984.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >522119.1
+</td>
+
+<td >[Analytics Server SSL Connection to LDAP](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=522119.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >526540.1
+</td>
+
+<td >[Need API for Web Security Definitions](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=526540.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >520000.1
+</td>
+
+<td >[Major Analytics security error](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=520000.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >521535.1
+</td>
+
+<td >[Analytics NQ_Session.User Variable and LDAP](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=521535.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >502785.1
+</td>
+
+<td >[Password Change for Tech application](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=502785.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >521685.1
+</td>
+
+<td >[Authentication with ADSI](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=521685.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >551963.1
+</td>
+
+<td >[LDAP Expiration PWD](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=551963.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >742413.1
+</td>
+
+<td >[Special character in password, fail to log -in](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=742413.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >26-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1275266.1
+</td>
+
+<td >[External LDAP Authenticated Users Are Unable To Sign In With OBIEE 11g Or View Catalogs In BI Publisher](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1275266.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >492005.1
+</td>
+
+<td >[when they login, they get this: Invalid Path: Error Details Error Codes: QM3V3HLV](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=492005.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >502837.1
+</td>
+
+<td >[Associate employee's old folders to employee's new HR ID](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=502837.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >755195.1
+</td>
+
+<td >[SingleSignOn using Microsoft IIS (Doc ID 540437.1)](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=755195.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >492055.1
+</td>
+
+<td >[IBM JCE for Siebel Analytics expire](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=492055.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >493146.1
+</td>
+
+<td >[BI EE not working with LDAP](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=493146.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >494341.1
+</td>
+
+<td >[Analytics - Restrict siebel user/ trace changes](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=494341.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >757629.1
+</td>
+
+<td >[Internal Server Error when logging into OBI using SSO following a Java JDK downgrade.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=757629.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >542501.1
+</td>
+
+<td >[Team based visibility in analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=542501.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >498542.1
+</td>
+
+<td >[Restrict users to access data warehouse data, multi-org data security in analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=498542.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >733324.1
+</td>
+
+<td >[Security filter is applied on users which part of Administrators group](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=733324.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >579185.1
+</td>
+
+<td >[Compliancy / support between OBIEE and SAML](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=579185.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >497932.1
+</td>
+
+<td >[Restricting Subject Area visibility through Web Administration](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=497932.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >506361.1
+</td>
+
+<td >[Read permission for Segments should permit users to use Update Counts etc.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=506361.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >502027.1
+</td>
+
+<td >[My Analytics applet errors : "Error:The HTTP request is denied"](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=502027.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >525469.1
+</td>
+
+<td >[How to generate a document to list the filters applied on security groups?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=525469.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >525402.1
+</td>
+
+<td >[Analytics Integration with eComm](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=525402.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >484705.1
+</td>
+
+<td >[Writeback Authentication](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=484705.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >26-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >516517.1
+</td>
+
+<td >[Analytics Proxy/Impersonation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=516517.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >515236.1
+</td>
+
+<td >[Webgroup and privileges](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=515236.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >523683.1
+</td>
+
+<td >[Publish a page](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=523683.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >516073.1
+</td>
+
+<td >[Siebel Analytics Privileges](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=516073.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >523575.1
+</td>
+
+<td >[Group Business Model Filter](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=523575.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >545873.1
+</td>
+
+<td >[Provide a way to issue LDAP search queries to LDAP in the INIT_BLOCK / Session variables Section](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=545873.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >537541.1
+</td>
+
+<td >[Siebel Analytics Data Encryption](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=537541.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >487878.1
+</td>
+
+<td >[ADSI and Analytics Authentication](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=487878.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >545657.1
+</td>
+
+<td >[Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=545657.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >518654.1
+</td>
+
+<td >[Integrated authentication between OLTP and OLAP not working](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=518654.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >557629.1
+</td>
+
+<td >[Session log not generated when logged in as impersonator](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=557629.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >497038.1
+</td>
+
+<td >[Security - External Table](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=497038.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >505439.1
+</td>
+
+<td >[LDAP and Siebel Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=505439.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >537355.1
+</td>
+
+<td >[Siebel Analytics password exposure in GUI](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=537355.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >518526.1
+</td>
+
+<td >[User right on webcat](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=518526.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >480302.1
+</td>
+
+<td >[Report Links and Security](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=480302.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >561515.1
+</td>
+
+<td >[Cannot connect when LDAP is using SSL](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=561515.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >511012.1
+</td>
+
+<td >[Need more Description on Analytics Privileges...](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=511012.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >479552.1
+</td>
+
+<td >[Restricting Maximum Number of rows](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=479552.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >489603.1
+</td>
+
+<td >[Repository Documentation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=489603.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >507154.1
+</td>
+
+<td >[Analytics does not work with LDAP](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=507154.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >734956.1
+</td>
+
+<td >[Ports to configure for internet access on the Web Server and communication between the Web Server and the OBI Server](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=734956.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >508557.1
+</td>
+
+<td >[logging of invalid login attempts, when using Analytics LDAP authentication](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=508557.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >507483.1
+</td>
+
+<td >[Ability To Redirect to Alternative Page Upon Logout](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=507483.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >527785.1
+</td>
+
+<td >[In frequent intervals an ActiveX error message appears[Screenshot attached].](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=527785.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >479421.1
+</td>
+
+<td >[error on a report: user does not have all the privileges](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=479421.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >537288.1
+</td>
+
+<td >[Security team @ Microsoft found one more issue on vanilla Analytics. Please take look into this](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=537288.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >504072.1
+</td>
+
+<td >[Cannot save password](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=504072.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >522809.1
+</td>
+
+<td >[Issue with List Format Folders](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=522809.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >543104.1
+</td>
+
+<td >[Responsibility naming conventions - repository vs analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=543104.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >544002.1
+</td>
+
+<td >[Proxy Feature](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=544002.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >495277.1
+</td>
+
+<td >[Analytics Web and IIS security](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=495277.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >493139.1
+</td>
+
+<td >[Analytics SSL - Non Secure Items](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=493139.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >531735.1
+</td>
+
+<td >[Analytics SSL Implementation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=531735.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >544880.1
+</td>
+
+<td >[Resetting of analytics system passwords without impacting Marketing Segmentation Capabilities](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=544880.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >534348.1
+</td>
+
+<td >[Siebel Analytics Security](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=534348.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >603632.1
+</td>
+
+<td >[Email address in presentation server 'my account'](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=603632.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >526348.1
+</td>
+
+<td >[Authentication options: Operating System authentication](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=526348.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >490727.1
+</td>
+
+<td >[Passing session variables to Data source name- databases in multiple regional locations](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=490727.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >545254.1
+</td>
+
+<td >[Analytics : Cannot import users from Active directory](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=545254.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >487848.1
+</td>
+
+<td >[ADSI authentication method](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=487848.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >545036.1
+</td>
+
+<td >[Create Folder Privilege](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=545036.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >530752.1
+</td>
+
+<td >[Unable to access Usage Accellerator Trends Dashboard](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=530752.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >543977.1
+</td>
+
+<td >[Not able to remove the permission for a user](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=543977.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >563422.1
+</td>
+
+<td >[Question on configuring Presentation Services Java servlet for SSL communication](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=563422.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >505717.1
+</td>
+
+<td >[Implementing Secure Socket Layer (SSL) in Siebel Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=505717.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >505539.1
+</td>
+
+<td >[Usage Tracking Config](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=505539.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >541365.1
+</td>
+
+<td >[prevent users to be able to delete users or web groups, but still being able to create web groups](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=541365.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >508081.1
+</td>
+
+<td >[Proxy and DNS](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=508081.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >537339.1
+</td>
+
+<td >[Analytics - require multi organization data visibility (data level security) for Call Center](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=537339.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >498586.1
+</td>
+
+<td >[Query RPD User permissions](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=498586.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >524494.1
+</td>
+
+<td >[Inability to see some Subject Areas in Siebel Answers](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=524494.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >489714.1
+</td>
+
+<td >[Primary/Active Position Based Security in Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=489714.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >26-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1222894.1
+</td>
+
+<td >[How To Disable New User's Access To Dashboard By Default in BIEE 11g](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1222894.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >529389.1
+</td>
+
+<td >[read only access to Analytics repository](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=529389.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >492811.1
+</td>
+
+<td >[Siebel Analytics passwords transit the network using a static 3DES key](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=492811.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >497323.1
+</td>
+
+<td >[Analytics config question](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=497323.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >538285.1
+</td>
+
+<td >[Integrated Analytics Database Password lowercase causes issue](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=538285.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >521790.1
+</td>
+
+<td >[Change Password not available](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=521790.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >744926.1
+</td>
+
+<td >['Administration' Link does not display in OBI EE Screens](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=744926.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >533519.1
+</td>
+
+<td >[Analytics visibility](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=533519.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >516178.1
+</td>
+
+<td >[Create Folder option s getting enabled when user does not have privilege to do so](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=516178.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >526586.1
+</td>
+
+<td >[How to get Active Position in Siebel Application from Siebel Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=526586.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >26-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >524110.1
+</td>
+
+<td >[Dashboard is missing](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=524110.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >519994.1
+</td>
+
+<td >[Siebel Analytics with Win2K SP4](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=519994.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >535527.1
+</td>
+
+<td >[Dashboard disappears during upgrade to 7.7](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=535527.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >501031.1
+</td>
+
+<td >[Anlaytics 7.7 UNION syntax](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=501031.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >484680.1
+</td>
+
+<td >[After upg to 784.1 filters on data that contains non ASCII char fail to return the correct data](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=484680.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >480592.1
+</td>
+
+<td >[OLTP Patch](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=480592.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >525839.1
+</td>
+
+<td >[Interoperability Request from Oracle Support](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=525839.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >550516.1
+</td>
+
+<td >[Unix Installer does not request license key](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=550516.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >565057.1
+</td>
+
+<td >[Problem upgrading Catalog from Analytics Version 7.8.2 TO 10.1.3.3](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=565057.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >738906.1
+</td>
+
+<td >[Does Oracle support Digital Rights Management (DRM) for OBIEE & or BIP report](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=738906.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >744366.1
+</td>
+
+<td >[Truncation in OBIEE Office Plug-In log on screen](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=744366.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >497631.1
+</td>
+
+<td >[DSN based on ODBC Teradata 3.05 prevents unicode string stored in webcat or rpd to display correctly](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=497631.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1283204.1
+</td>
+
+<td >[Is IE 7 Supported on Siebel Analytics 7.8.4.x Version?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1283204.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >507388.1
+</td>
+
+<td >[Analytics Server not starting after installation and configuration](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=507388.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >530353.1
+</td>
+
+<td >[Siebel Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=530353.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >543579.1
+</td>
+
+<td >[Cannot uninstall Siebel Analytics 7.5.2.11](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=543579.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >501645.1
+</td>
+
+<td >[After Upgrade to Siebel 7.5.2.7 Analytics does not work](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=501645.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >545525.1
+</td>
+
+<td >[MacroMedia Flash](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=545525.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >505792.1
+</td>
+
+<td >[Cannot Access Siebel Answers after setting parameters for Actuate Report](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=505792.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1284084.1
+</td>
+
+<td >[UNABLE TO DEPLOY ANALYTICS.WAR FILE ON TOMCAT 5.5.31](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1284084.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >513599.1
+</td>
+
+<td >[IE](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=513599.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >483337.1
+</td>
+
+<td >[v 7.5 webcat upgrade](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=483337.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >537032.1
+</td>
+
+<td >[Certification on AIX 5.3](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=537032.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >496013.1
+</td>
+
+<td >[Caching in a clustered environment](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=496013.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1285899.1
+</td>
+
+<td >[obips does not start, and unable to logon to rpd online: [nQSError: 43126] Authentication failed: invalid user/password.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1285899.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >21-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1142393.1
+</td>
+
+<td >[OC4J does not work with OBIEE on AIX OS with JDK 1.6](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1142393.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1213834.1
+</td>
+
+<td >[How To Install Obiee 11.1.1.3.0 With WLS And Java 64 Bits On A Certified And Supported Operating System.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1213834.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1211573.1
+</td>
+
+<td >[Obiee 11g Installation Failed With "Step Creating Asinstance Failed": Caused by: java.lang.OutOfMemoryError: PermGen space](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1211573.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >511783.1
+</td>
+
+<td >[Popchart server error: 'Couldn't load appearance file'](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=511783.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >516450.1
+</td>
+
+<td >[support for db2 udb fix pack 13](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=516450.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >480568.1
+</td>
+
+<td >[Analytics 7.0.3 to Analytics 7.8.4](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=480568.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >508669.1
+</td>
+
+<td >[Installation Failure](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=508669.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >480110.1
+</td>
+
+<td >[Analytics upgrade 7.5 to 7.7](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=480110.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >528678.1
+</td>
+
+<td >[Analytics Pop Chart Server Binaries](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=528678.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >530944.1
+</td>
+
+<td >[Errors after upgrading Platform to 7.8.2.3](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=530944.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >502083.1
+</td>
+
+<td >[Siebel Analytics 7.7 Install](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=502083.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >492012.1
+</td>
+
+<td >[Do we need to install Java SDK1.4.2 for installing SA 7.8.2](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=492012.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >502386.1
+</td>
+
+<td >[Can I use ONAMES instead of TNSNAMES for Analytics?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=502386.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >482330.1
+</td>
+
+<td >[Oracle 10g RAC support for Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=482330.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >504663.1
+</td>
+
+<td >[Siebel Analytics Installation - PopChart install failure](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=504663.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >511005.1
+</td>
+
+<td >[Which Oracle database version for DAC & Informatica Repositories ?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=511005.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >514123.1
+</td>
+
+<td >[connect to a repository other than the default repository](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=514123.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >483773.1
+</td>
+
+<td >[Questions regarding Siebel Analytics 7.8.4 and Siebel 8.0](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=483773.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >494311.1
+</td>
+
+<td >[BI EE Upgrade - consistency check Errors](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=494311.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >481634.1
+</td>
+
+<td >[ORACLE BUSINESS INTELLIGENCE OFFICE PLUG-IN](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=481634.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1286256.1
+</td>
+
+<td >[How to migrate the OBIEE 11g RCU to a new database server?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1286256.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >21-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1286697.1
+</td>
+
+<td >[OBI EE Login Page is not appearing as the 'web.xml' file has become corrupted on the hosting Application / Web Server](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1286697.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >24-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1201773.1
+</td>
+
+<td >[Obiee 11g Security Integration With EPM 11.1.2](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1201773.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >25-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1271215.1
+</td>
+
+<td >[Obi Ee 11g : Can We Run Obi Ee 11g Processes With Out Opmn](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1271215.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1282565.1
+</td>
+
+<td >[OUI-10117 "products.xml not found" message during OBIEE 11G Installation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1282565.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1211149.1
+</td>
+
+<td >[OBI EE 11g (11.1.1.3.0) installation fails when OMPNCTL Commands will not restart the services](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1211149.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >515606.1
+</td>
+
+<td >[Siebel Analytics - ODBC Drivers](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=515606.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >542714.1
+</td>
+
+<td >[Analytics 7.5.2](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=542714.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >490531.1
+</td>
+
+<td >[Analytics 211 Patch Installation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=490531.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >540078.1
+</td>
+
+<td >[PCIS383.exe Missing from WIN Install Disk for Analytics 7.5.3](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=540078.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >504228.1
+</td>
+
+<td >[The Analytics Administration view is not visible in the Siebel application - Site map](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=504228.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >530401.1
+</td>
+
+<td >[Analytics ODBC Driver](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=530401.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >537266.1
+</td>
+
+<td >[Cannot find Servlet directory under Analytics Web](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=537266.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >531103.1
+</td>
+
+<td >[Analytics and Oracle 9 RAC](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=531103.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >535085.1
+</td>
+
+<td >[Siebel ANalytics 7.7.X support for Windows Server 2003 SP1](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=535085.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >490071.1
+</td>
+
+<td >[Analytics Licence key](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=490071.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >739779.1
+</td>
+
+<td >[Suppressing OC4J CMD Window at Start-up](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=739779.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >536435.1
+</td>
+
+<td >[Siebel Service won't start unless network cable connected](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=536435.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >499503.1
+</td>
+
+<td >[Dashboards not marked hidden are hidden/Can't edit hidden attribute](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=499503.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >511772.1
+</td>
+
+<td >[Anlytics Install issue](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=511772.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >490552.1
+</td>
+
+<td >[ALERT 764](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=490552.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >540368.1
+</td>
+
+<td >[PopChart Image Sever does not start.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=540368.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >504854.1
+</td>
+
+<td >[Analytics implementation and encountering a critical problem.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=504854.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >544540.1
+</td>
+
+<td >[dlopen of /app/sa_d2dev/sunone1/bin/https /lib/libNSServletPlugin.so failed](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=544540.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >543023.1
+</td>
+
+<td >[Excel Add-in](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=543023.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >494211.1
+</td>
+
+<td >[Oracle BI Enterprise Edition DAC](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=494211.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >529865.1
+</td>
+
+<td >[SIEBEL: AFTER DEPLOYING BI ANALYTICS WAR FILE; RECEIVE INTERNAL SERVER ERROR. See TAR 6429732.992](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=529865.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1197213.1
+</td>
+
+<td >[After Installing OBIEE 11g, Javahost failed to start](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1197213.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >23-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1286598.1
+</td>
+
+<td >[OBI EE Login Page is not appearing after starting the OBI EE Services as the Presentation Services failed to start because the 'instanceconfig.xml' file had a syntax error](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1286598.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >24-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1262220.1
+</td>
+
+<td >[Creating a new BI Instance results in error](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1262220.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >25-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1073417.1
+</td>
+
+<td >[OBIEE 10.1.3.4.1 INSTALL FAILS With JVMST109: Insufficient space in Javaheap to satisfy allocation request](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1073417.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >25-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >537160.1
+</td>
+
+<td >[Analytics Segmentation vs Marketing Server install SBL-DAT-00373](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=537160.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >26-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1288565.1
+</td>
+
+<td >[Obiee10.1.3.4.1 Install Hangs](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1288565.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >27-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1263414.1
+</td>
+
+<td >[Are there any changes for the parameters used in Instanceconfig.Xml in BIEE 11g?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1263414.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1235693.1
+</td>
+
+<td >[How To Change The Web Application Server From OC4JTo IIS](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1235693.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1282533.1
+</td>
+
+<td >[OBIEE 11G - Support For Web Services As A Native Data Source](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1282533.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1215734.1
+</td>
+
+<td >[Login Failed with Error "An error occurred during authentication. Try again later or contact your system administrator"](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1215734.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1201133.1
+</td>
+
+<td >[Running OBIEE Answers (10.1.3.4.x) On Unix platform 64-bit Mode Fails With 'Cannot load module /OracleBI/server/Bin64/libnqsdbgatewayoci10g64.so'](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1201133.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >493505.1
+</td>
+
+<td >[Scheduler will not run requests](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=493505.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >483035.1
+</td>
+
+<td >[UNIX registry settings](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=483035.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >515448.1
+</td>
+
+<td >[Analytics Server Oracle 9.2.02](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=515448.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >538028.1
+</td>
+
+<td >[printing to PDF results in error in Siebel Analytics 7.7 platform](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=538028.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >491828.1
+</td>
+
+<td >[How to determine version of Analytics and approach to Upgrading Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=491828.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >517786.1
+</td>
+
+<td >[August Micrsoft Security patches](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=517786.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >495810.1
+</td>
+
+<td >[After upg to 784.1 the looping searching arrow never stops. User must cancel to display results](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=495810.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >517788.1
+</td>
+
+<td >[DAC installable not available with Oracle BI 10.1.3.2 suite](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=517788.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >535308.1
+</td>
+
+<td >[Vanilla Reports On Usage Tracking](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=535308.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >753844.1
+</td>
+
+<td >[Installation Issues](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=753844.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >498291.1
+</td>
+
+<td >[Need a compatibility patch for AN 7.5.3](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=498291.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >492797.1
+</td>
+
+<td >[Post installation problems with Siebel Analytics 7.7.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=492797.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >545741.1
+</td>
+
+<td >[Siebel 7.8 and Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=545741.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >519840.1
+</td>
+
+<td >[Analytics upgrade broke SQL Issued](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=519840.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >515124.1
+</td>
+
+<td >[Pop chart: windows service doesn't start after installation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=515124.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >524059.1
+</td>
+
+<td >[Incorrect Character Translations](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=524059.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >520597.1
+</td>
+
+<td >[Configuring Analytics Web on Sun One 6.1](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=520597.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >481058.1
+</td>
+
+<td >[Siebel Analytics not displaying home page on single installation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=481058.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >538302.1
+</td>
+
+<td >[Analytics 7.7.1.2 Release Notes](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=538302.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >538667.1
+</td>
+
+<td >[Siebel Analytics - HTTP 401.3 error](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=538667.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >495048.1
+</td>
+
+<td >[Unable to login to DAC Client](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=495048.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >515198.1
+</td>
+
+<td >[Maui install on AIX](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=515198.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >580455.1
+</td>
+
+<td >[Need Oracle BI patch 10.1.3.3.1.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=580455.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1266255.1
+</td>
+
+<td >[Logging Into Application - Full Version Of Sampleapp For Obiee 11g](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1266255.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >517115.1
+</td>
+
+<td >[Siebel Analytics MR 7.7.1.2](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=517115.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >481330.1
+</td>
+
+<td >[Analytics installation failure](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=481330.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >480555.1
+</td>
+
+<td >[Analytics - Physical SQL different](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=480555.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >520328.1
+</td>
+
+<td >[http://localhost/analytics only displays 'Page not found'](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=520328.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >731417.1
+</td>
+
+<td >[Need Information on why make the Java platform writable under UNIX](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=731417.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >540778.1
+</td>
+
+<td >[Instanceconfig with 7.8.4.2](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=540778.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1251364.1
+</td>
+
+<td >[OBI EE 11g (11.1.1.3.0) installation fails with 'Authentication failed: invalid user/password' error as Connect String information is incorrect](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1251364.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >544522.1
+</td>
+
+<td >[Analytics Installation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=544522.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >495262.1
+</td>
+
+<td >[Analytics Install.log Prompt When Running UNIX Scheduler Installation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=495262.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >524977.1
+</td>
+
+<td >[Siebel Analytics 7.8.2.1 Installation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=524977.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >527519.1
+</td>
+
+<td >[Page Can't be displayed](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=527519.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >481134.1
+</td>
+
+<td >[Siebel 7.7.1 Installation Failed](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=481134.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >512000.1
+</td>
+
+<td >[IBM is installing Siebel Analytics 7.7.1 Standalone and are stopped because of Siebel doc questions](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=512000.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >482296.1
+</td>
+
+<td >[DAC Server on Unix solaris 9](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=482296.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >493903.1
+</td>
+
+<td >[RAM](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=493903.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >495064.1
+</td>
+
+<td >[Cannot Access Analytics after upgrade](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=495064.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >506323.1
+</td>
+
+<td >[Database Client](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=506323.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >525632.1
+</td>
+
+<td >[AnalyticsWeb - SunOne 6.1 Integration](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=525632.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >517723.1
+</td>
+
+<td >[Analytics database Upgrade](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=517723.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >578662.1
+</td>
+
+<td >[AIX 5.3 and AIX 5.2 patch levels supported](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=578662.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1286157.1
+</td>
+
+<td >[OBIEE 11g BI Server Does Not Start After Changing Analytics Port In Windows Platform](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1286157.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >21-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1250191.1
+</td>
+
+<td >[The Upgrade .rpd or Web Catalog Stops At 4%.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1250191.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >515527.1
+</td>
+
+<td >[JRE with Corda PopChart Image Server](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=515527.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >540314.1
+</td>
+
+<td >[Web Groups Don't Come Over in Web Catalog Upgrade 7.7](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=540314.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >483230.1
+</td>
+
+<td >[Analytics - items missing from siebel analytics marketing metadata in standard 7.7.1.3 repository](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=483230.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >506446.1
+</td>
+
+<td >[SQL Server 2000 64-bit compatibility with Siebel Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=506446.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >530784.1
+</td>
+
+<td >[Getting Javascript errors in new install of version 7.8](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=530784.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >496569.1
+</td>
+
+<td >[10.1 presentation services install.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=496569.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >734299.1
+</td>
+
+<td >[Search function in Answers or Segmentation screen is very slow.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=734299.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >739780.1
+</td>
+
+<td >[Suppressing OC4J CMD Window at Start-up](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=739780.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >514195.1
+</td>
+
+<td >[Analytics Installation issue](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=514195.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >492016.1
+</td>
+
+<td >[Is Analytics 7.8.2.1 supported on Oracle 9 RAC?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=492016.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >737645.1
+</td>
+
+<td >[Problem Installing OBI Application 7.9.3 on Windows XP](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=737645.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >520511.1
+</td>
+
+<td >[Upgrade to complete DAC from DAC Lite](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=520511.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >543207.1
+</td>
+
+<td >[Cannot Uninstall 7.7](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=543207.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >521627.1
+</td>
+
+<td >[settings in the Analytics repository for the data warehouse](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=521627.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >535562.1
+</td>
+
+<td >[Disconnected setup](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=535562.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >496934.1
+</td>
+
+<td >[Documentation Clarification DAC Client and Popchart](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=496934.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >509576.1
+</td>
+
+<td >[Siebel Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=509576.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >520595.1
+</td>
+
+<td >[Analytics: Memory allocation error occurred while allocating ODBC environment](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=520595.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >526655.1
+</td>
+
+<td >[Siebel Analytics DAC client](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=526655.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >508041.1
+</td>
+
+<td >[Upgraded to 7.8.4 and cannot start web](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=508041.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >495540.1
+</td>
+
+<td >[Directories on Windows are not created after Installtion of 10G](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=495540.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >518583.1
+</td>
+
+<td >[Webcat Upgrade](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=518583.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >509762.1
+</td>
+
+<td >[Informatica Installation Issues](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=509762.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >516553.1
+</td>
+
+<td >[Oracle BI Server Installation Issues](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=516553.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >524646.1
+</td>
+
+<td >[Quickfix for AGO function in OBI 10.1.3.2](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=524646.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >504731.1
+</td>
+
+<td >[Installation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=504731.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1285696.1
+</td>
+
+<td >[Prerequisite Checks Fail Immediately While Installing OBIEE 11g On Oracle Linux 5](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1285696.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1287397.1
+</td>
+
+<td >[Getting Error Getelementsbytagname When Navigating Dashboards in OBIEE 11g](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1287397.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >25-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1225298.1
+</td>
+
+<td >[Trimming Presentation Catalog - Upgrade Process](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1225298.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >757957.1
+</td>
+
+<td >[Integrating BI Office with OBIEE that has SSO.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=757957.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >537604.1
+</td>
+
+<td >[nqsserver.exe Unable to Locate DLL - db2cli.dll - Analytics Install](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=537604.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >520694.1
+</td>
+
+<td >[Intelligence Dashboards Lic key error Stemmed from SR 38-870199449](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=520694.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >531934.1
+</td>
+
+<td >[registry values for java memory issue](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=531934.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >501243.1
+</td>
+
+<td >[Siebel Analytics Repository Migration from 7.5 to 7.7,cannot save any changes,error](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=501243.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >505477.1
+</td>
+
+<td >[error installing 7.7.1.10.QF600](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=505477.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >504746.1
+</td>
+
+<td >[Action Link based on value of invisible column](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=504746.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >536023.1
+</td>
+
+<td >[a sample analytics OLAP database for Oracle ?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=536023.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >517686.1
+</td>
+
+<td >[Support of Siebel Analytics 7.8.5 on Sun Solaris 64 bits SPARC system](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=517686.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >529898.1
+</td>
+
+<td >[Analytics Installation on Solaris 9](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=529898.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >529812.1
+</td>
+
+<td >[MS Office Integration (maui)](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=529812.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >519629.1
+</td>
+
+<td >[Siebel Analytics platform and applications](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=519629.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >494063.1
+</td>
+
+<td >[Analytics Repository](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=494063.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >527870.1
+</td>
+
+<td >[RW permissions on Java](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=527870.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >757019.1
+</td>
+
+<td >[Clarification regarding upgrade of Web Server.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=757019.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >485550.1
+</td>
+
+<td >[Analytics 7.7 upgrade](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=485550.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >540892.1
+</td>
+
+<td >[Analytics , DW install](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=540892.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >522391.1
+</td>
+
+<td >[Siebel Analytics Dev. server not working](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=522391.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >493022.1
+</td>
+
+<td >[Problems in Analytics 7.8 Installation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=493022.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >492879.1
+</td>
+
+<td >[Analytics Install Issue](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=492879.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >505519.1
+</td>
+
+<td >[Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=505519.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >533848.1
+</td>
+
+<td >[Integrated Siebel Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=533848.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >497018.1
+</td>
+
+<td >[HP-UX 11i Siebel 7.7.15 SIA Analytics installation issues](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=497018.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >484605.1
+</td>
+
+<td >[Problem when installing a new Siebel Analytics WebCatalogue](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=484605.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >487889.1
+</td>
+
+<td >[CatalogManger fails to start](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=487889.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >494012.1
+</td>
+
+<td >[Error uninstalling Siebel Analytics 7.8.4](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=494012.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >503737.1
+</td>
+
+<td >[Analytics on Oracle 10g - Required users privileges](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=503737.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >509885.1
+</td>
+
+<td >[Oracle BI 10.1.3.2.1 upgradation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=509885.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >563340.1
+</td>
+
+<td >[How can we configure BI Publisher to reference a second repository ?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=563340.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1286241.1
+</td>
+
+<td >[OBI 11g and Oracle 9i DB](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1286241.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >21-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1207103.1
+</td>
+
+<td >[Java Host Component (coreapplication_obijh1) Failed During Configuration (Installation) and Then It Does Not Start](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1207103.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >25-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1145095.1
+</td>
+
+<td >[Installing Obiee 10.1.3.4.1 Using Weblogic 10.3.1, needs OC4JAdmin user and password ?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1145095.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >25-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1186513.1
+</td>
+
+<td >[OBIEE 11g (OID) The Security Token cannot be authenticated](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1186513.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >826714.1
+</td>
+
+<td >[Windows 2008 64 bit support - Siebel,OBIEE,BIP,OBIA roadmap](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=826714.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >527281.1
+</td>
+
+<td >[Missing WebCatalog for Siebel Analytics 6.3 Bridge](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=527281.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >507680.1
+</td>
+
+<td >[Hardware Requirements for Analytics 7.7 and DAC](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=507680.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >545185.1
+</td>
+
+<td >[Siebel Analytics Server service hanging after install](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=545185.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >517241.1
+</td>
+
+<td >[Migrate Siebel Analytics and Siebel data warehouse to version 7.7 do we need to upgrade Siebel OLTP](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=517241.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >531171.1
+</td>
+
+<td >[Siebel Analytics Web and iPlanet 6.1](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=531171.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >509748.1
+</td>
+
+<td >[Siebel Analytics - OBDC Driver requires License Key](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=509748.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >532940.1
+</td>
+
+<td >[File System Full on Siebel Analytics Web](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=532940.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >513170.1
+</td>
+
+<td >[Chinese characters in Analytics Rpd](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=513170.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >508973.1
+</td>
+
+<td >[Installing Disconnected Anaytics in Silent Mode](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=508973.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >535171.1
+</td>
+
+<td >[Subclass names including "&" caracters are not properly displayed in Answers pages](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=535171.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >483754.1
+</td>
+
+<td >[Supported MDAC platform on Windows 2003](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=483754.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >496678.1
+</td>
+
+<td >[Analytics Apps Installation: Standard buttons and check boxes missing](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=496678.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >730130.1
+</td>
+
+<td >[Could not load file or assembly stdole.dll Error Message for OBI Office](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=730130.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >751829.1
+</td>
+
+<td >[Is it possible to move charts between different excel files and be able to refresh it?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=751829.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >502749.1
+</td>
+
+<td >[Undo_Management parameter and Siebel 7.8](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=502749.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >499296.1
+</td>
+
+<td >[Hardware requirement for RTD](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=499296.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >484508.1
+</td>
+
+<td >[Error trying to get pull Segmentation List from Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=484508.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >491801.1
+</td>
+
+<td >[Will Siebel Analytics Run Under WebSphere](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=491801.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >495821.1
+</td>
+
+<td >[Siebel Analytics 7.7.1 Installation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=495821.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >537121.1
+</td>
+
+<td >[How to implement Secure Socket Layer (SSL) with Siebel Analytics?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=537121.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >521388.1
+</td>
+
+<td >[SA SOAP API](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=521388.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1201933.1
+</td>
+
+<td >[Obiee 11g Compatibility](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1201933.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >19-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1285053.1
+</td>
+
+<td >[OBIEE Wont Start After Reboot: the loading of the trusted certificate list raised a certificate parsing exception PKIX: Unsupported OID](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1285053.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >535722.1
+</td>
+
+<td >[Cannot Access Analytics, from within Siebel App](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=535722.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >480077.1
+</td>
+
+<td >[Analytics Installation, unable to access Analytics Web](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=480077.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >527673.1
+</td>
+
+<td >[SAW replication](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=527673.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >539714.1
+</td>
+
+<td >[Analytics 7.8.2.3 Windows - install Disconnected Client analytics\web\app\Res folder missing](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=539714.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >490023.1
+</td>
+
+<td >[Analytics Apps 7.8.x Upgrade - Experiencing technical issues.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=490023.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >499273.1
+</td>
+
+<td >[Siebel Marketing Analytics setup in AIX](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=499273.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >739344.1
+</td>
+
+<td >[Required Parameter is missing: recursive](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=739344.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1230898.1
+</td>
+
+<td >[Bi 11g Installation On Win 2003 64bit Hangs - Unexpected Error Creating Bi Component](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1230898.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >25-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >499477.1
+</td>
+
+<td >[Oracle Client 9.2.0.6 Compatibility for Siebel Analytics 7.7.1.5](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=499477.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >25-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >530787.1
+</td>
+
+<td >[Infinite loop possible with iBots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=530787.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >490807.1
+</td>
+
+<td >[Analytics Delivers not working](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=490807.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >491057.1
+</td>
+
+<td >[Scheduler fires an update every five minutes](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=491057.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >519730.1
+</td>
+
+<td >[Strange characters in CSV File when downloading an iBot to Disk](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=519730.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >495786.1
+</td>
+
+<td >[iBots functionality](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=495786.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >526523.1
+</td>
+
+<td >[Allow users to subscribe to reports in dashboard](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=526523.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >504291.1
+</td>
+
+<td >[iBot:[nQSError: 27021] Query rejected. You do not have access to any of the columns in the query](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=504291.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >489781.1
+</td>
+
+<td >[Access Prohibited to Dashboards error when viewing an Alert](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=489781.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >509742.1
+</td>
+
+<td >[Scheduler setup - "The registry server is not alive"](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=509742.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >529927.1
+</td>
+
+<td >[User with NO Privileges to create an iBot is able to create an iBot on selecting the Personal ibot](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=529927.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >507414.1
+</td>
+
+<td >[Seibel Analytics- Email Problem](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=507414.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >514235.1
+</td>
+
+<td >[Analytics Job Scheduler](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=514235.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >752209.1
+</td>
+
+<td >[How do we pass parameters to iBots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=752209.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >493220.1
+</td>
+
+<td >[Request for enhancement: Oracle Delivers fetch emails from LDAP](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=493220.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >742781.1
+</td>
+
+<td >[Ibot Email not delivered for Recipients with System Profile](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=742781.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >543639.1
+</td>
+
+<td >[iBot error](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=543639.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >508696.1
+</td>
+
+<td >[iBots Not Caching Consistently](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=508696.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >538088.1
+</td>
+
+<td >[Not able to modify iBot created by Siebel Delivers](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=538088.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >502832.1
+</td>
+
+<td >[Siebel Delivers](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=502832.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >509680.1
+</td>
+
+<td >[Siebel Delivers iBots generating No Records selected messages](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=509680.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1265385.1
+</td>
+
+<td >[Obiee Ibots Not Working](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1265385.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >528020.1
+</td>
+
+<td >[Siebel Scheduler Service Port 9705 Issue](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=528020.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >498539.1
+</td>
+
+<td >[Deliver Content](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=498539.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >529783.1
+</td>
+
+<td >[Pb of accent in Ibots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=529783.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >565430.1
+</td>
+
+<td >[When selecting the "Use SSL" option, other values such as "SSL Certificate File Path" are being "def](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=565430.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >518730.1
+</td>
+
+<td >[Logo not appearing when the report is delivered thru IBOT](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=518730.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >540959.1
+</td>
+
+<td >[Print and Download link in Delivers reports](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=540959.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >520662.1
+</td>
+
+<td >[To rename folders having ' ibots' as one of the name](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=520662.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >516120.1
+</td>
+
+<td >[IBot email](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=516120.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >513241.1
+</td>
+
+<td >[Unable to allocate memory Error in Analytics Briefing Books created by Siebel Delivers](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=513241.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >503246.1
+</td>
+
+<td >[CPU spikes on devserver after Scheduler running for a couple of days. Engineering has fix for this.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=503246.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >534245.1
+</td>
+
+<td >[Daylight savings time cause iBots to loop](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=534245.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >526843.1
+</td>
+
+<td >[Documentation Clarification](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=526843.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >546689.1
+</td>
+
+<td >[Is there a limitation on how many records in a table View are sent through an iBot ?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=546689.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >557794.1
+</td>
+
+<td >[Garbled output from a Siebel Delivers iBot (HTML Attachment) when using sendmail](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=557794.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >508513.1
+</td>
+
+<td >[iBots Not Working](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=508513.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >510559.1
+</td>
+
+<td >[Siebel Analytics](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=510559.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >504464.1
+</td>
+
+<td >[Can not set the field "Run as" when configuring an iBot](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=504464.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >553187.1
+</td>
+
+<td >[Siebel iBots failing when delivery set to email Error Message [nQSError: 75004]](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=553187.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >26-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >517127.1
+</td>
+
+<td >[Unable to save iBots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=517127.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >482699.1
+</td>
+
+<td >[iBots not working](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=482699.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >485765.1
+</td>
+
+<td >[Delivers / Recipients / Choose recipients](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=485765.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >482595.1
+</td>
+
+<td >[Automatic Failure notification for iBots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=482595.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >482448.1
+</td>
+
+<td >[This is a reopend of 38-2670116591](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=482448.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >506249.1
+</td>
+
+<td >[Siebel Delivers](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=506249.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >497185.1
+</td>
+
+<td >[iBot schedule date/time](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=497185.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >542336.1
+</td>
+
+<td >[Unable to deliver ibots to a specific group of 92 users](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=542336.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >519410.1
+</td>
+
+<td >[IBOT NOT EXPORTING COLUMN HEADINGS IN TEXT FORMAT](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=519410.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >500480.1
+</td>
+
+<td >[ibots ( 7.7 ( build 891)](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=500480.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >499459.1
+</td>
+
+<td >[Unable to start Siebel Analytics Scheduler](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=499459.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >483453.1
+</td>
+
+<td >[Ibot/Schedulerconfiguration on VVT](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=483453.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >484587.1
+</td>
+
+<td >[Delivery of reports to handheld device](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=484587.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >532815.1
+</td>
+
+<td >[SA iBot nqserver coredump](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=532815.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >747149.1
+</td>
+
+<td >[Cannot identify a Dashboard, when selecting a content in IBOT](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=747149.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >499128.1
+</td>
+
+<td >[Siebel Analytics - Job Manager](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=499128.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1222706.1
+</td>
+
+<td >[What Permissions are Required for the Domain Account to Start up the BI Services](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1222706.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >526617.1
+</td>
+
+<td >[iBot is not Delivering report as PDF attachment when the report having image.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=526617.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >517821.1
+</td>
+
+<td >[Analytics Scheduler mailing through SMTP protocol](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=517821.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >482537.1
+</td>
+
+<td >[Control over iBots names](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=482537.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >533968.1
+</td>
+
+<td >[The command-line version of the sync utility (Mobile Application Manager) downloads all files](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=533968.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >540042.1
+</td>
+
+<td >[When running Delivers, we also get permission error messages](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=540042.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >540623.1
+</td>
+
+<td >[Sub-folders in Delivers Folder](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=540623.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >505435.1
+</td>
+
+<td >[Siebel Analytics - Delivers](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=505435.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >525607.1
+</td>
+
+<td >[Delivers - Recipients Tab - 'Show Relevant Rows' does not cause data to be filtered based on userid](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=525607.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >514111.1
+</td>
+
+<td >[Automatically setting up Delivery Profiles](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=514111.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >522566.1
+</td>
+
+<td >[iBot error WScript](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=522566.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >535409.1
+</td>
+
+<td >[Analytics Scheduler Delivers configuration](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=535409.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >520467.1
+</td>
+
+<td >[Ibot related issue](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=520467.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >492200.1
+</td>
+
+<td >[IBOT Alert not displaying in Dashboard](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=492200.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >480359.1
+</td>
+
+<td >[Siebel Delivers - unable to page](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=480359.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >531531.1
+</td>
+
+<td >[Siebel Delivers Not Working Access Denied](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=531531.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >532886.1
+</td>
+
+<td >[Siebel Analytics Scheduler](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=532886.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >514016.1
+</td>
+
+<td >[Limit database load of iBot-triggered queries](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=514016.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >513065.1
+</td>
+
+<td >[iBot Delivery Error](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=513065.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >497363.1
+</td>
+
+<td >[Analytics iBots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=497363.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >523205.1
+</td>
+
+<td >[Analytics .300 Patch sends MHTML attachment](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=523205.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >534901.1
+</td>
+
+<td >[Can't configure Scheduler](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=534901.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >508366.1
+</td>
+
+<td >[Problem With Delivers Security - user cannot modify an iBot which they created, "Access Denied"](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=508366.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >539974.1
+</td>
+
+<td >[Triggering iBots based on max and min values](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=539974.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >539720.1
+</td>
+
+<td >[is it possible to conditionally highlight alert headines](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=539720.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >538702.1
+</td>
+
+<td >[Analytics and Alerts](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=538702.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >524606.1
+</td>
+
+<td >[Scheduler Question](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=524606.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >541599.1
+</td>
+
+<td >[Delivers Folder Structure](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=541599.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >515288.1
+</td>
+
+<td >[Scheduler Time Incorrect](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=515288.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >480384.1
+</td>
+
+<td >[iBots fail with a big amount of email](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=480384.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >485442.1
+</td>
+
+<td >[Delivered 'Delivers' (iBot) are not upgraded going from 75 to 77?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=485442.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >500173.1
+</td>
+
+<td >[My Briefing Books and Disconnected Vanilla folders are listed out in Siebel Delivers Selection Pane.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=500173.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >507494.1
+</td>
+
+<td >[iBots report showing only first 20+ records](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=507494.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >499572.1
+</td>
+
+<td >[IBots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=499572.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >514366.1
+</td>
+
+<td >[Invalid iBot session ID. Error Codes: MV5BAQPD](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=514366.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >502208.1
+</td>
+
+<td >[Buttons overlap in the Delivery Contents screen](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=502208.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >729169.1
+</td>
+
+<td >[Siebel Delivers iBots Server Error: [12009] Illegal message from client requesting unknown remote function 10023.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=729169.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >491821.1
+</td>
+
+<td >[Analytics, Scheduler and JavaScript](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=491821.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >527504.1
+</td>
+
+<td >[SA System Causing Ibots with Custom Script to not run](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=527504.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >514284.1
+</td>
+
+<td >[Analytics Scheduler Log Recycle](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=514284.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >485464.1
+</td>
+
+<td >[Scheduler Keeps Going Down](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=485464.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >527869.1
+</td>
+
+<td >[Recipients in Delivers](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=527869.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >498794.1
+</td>
+
+<td >[Cannot Open Delivery Contents from View Link in Alert Popup window](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=498794.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >734378.1
+</td>
+
+<td >[iBots in Job Manager stay with the status of Running](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=734378.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >542502.1
+</td>
+
+<td >[Analytics Scheduler](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=542502.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >563713.1
+</td>
+
+<td >[Cannot 'Open Scheduler Connection' or configure 'Configuration Options' in the Job Manager.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=563713.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >531045.1
+</td>
+
+<td >[Starting Scheduler without XTERM](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=531045.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >513040.1
+</td>
+
+<td >[SA System](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=513040.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >579084.1
+</td>
+
+<td >[Delivers in Oracle BI SE 1](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=579084.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >742504.1
+</td>
+
+<td >[run primary server (with working iBots) as stand alone if the secondary becomes unstable](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=742504.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >539496.1
+</td>
+
+<td >[Siebel Anaytics Scheduler Setup](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=539496.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >543583.1
+</td>
+
+<td >[Ibots and blank email attachments](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=543583.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >502273.1
+</td>
+
+<td >[Siebel Alerts(IBOTs)](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=502273.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >541756.1
+</td>
+
+<td >[Scheduler service terminates with nQSError: 12008](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=541756.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >562844.1
+</td>
+
+<td >[Impossible to customize an iBot based on a Dashboard](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=562844.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >487471.1
+</td>
+
+<td >[Scheduler Service does not start](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=487471.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >495142.1
+</td>
+
+<td >[ExitCode for SA Scheduler](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=495142.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >502701.1
+</td>
+
+<td >[Delivers Email To Line](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=502701.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >480942.1
+</td>
+
+<td >[Delivers sending reports as multiple attachments](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=480942.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >603553.1
+</td>
+
+<td >[Scheduler in OBIEE10.x on UNIX does not allow ODBC database type selection available in 7.8.4](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=603553.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >520387.1
+</td>
+
+<td >[Job Manager Won't Start](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=520387.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >479258.1
+</td>
+
+<td >[Removing ?Attachment (HTML)? option on Siebel Delivers --> Delivery Content](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=479258.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >505795.1
+</td>
+
+<td >[Ibot error 1976](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=505795.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >603640.1
+</td>
+
+<td >[Attachment (HTML) under Delivers (iBots)->Delivery Content gives error](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=603640.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >537572.1
+</td>
+
+<td >[Can not overwrite an ibot with another one](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=537572.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >518470.1
+</td>
+
+<td >[Scheduler not working after upgrade to 7.8](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=518470.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >523494.1
+</td>
+
+<td >[Ibot stays in running state, in scenario where 'deliver this message when no records returned'](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=523494.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >489631.1
+</td>
+
+<td >[generating text files from ibot](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=489631.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >505611.1
+</td>
+
+<td >[Siebel Delivers reports that takes longer than 5 minutes are being cancelled](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=505611.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >494876.1
+</td>
+
+<td >[Monitoring of Ibots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=494876.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1287640.1
+</td>
+
+<td >['View This Alert Link' Throws Access Denied Error And Error Code O9XNZMXB](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1287640.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >25-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >498746.1
+</td>
+
+<td >[iBots not running](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=498746.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >26-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >525536.1
+</td>
+
+<td >[Siebel Delivers SSL connection error](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=525536.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >495916.1
+</td>
+
+<td >[Siebel Analytics Delivers Last Run and Next Run not showing](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=495916.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >537278.1
+</td>
+
+<td >[Error when saving iBot](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=537278.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >545971.1
+</td>
+
+<td >[IBots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=545971.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >544188.1
+</td>
+
+<td >[IBOT Failure In Production](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=544188.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >529528.1
+</td>
+
+<td >[Delivers Uses Wrong Address for Verizon Digital Phones](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=529528.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >538074.1
+</td>
+
+<td >[Siebel Analytics (Delivers) - Message Files](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=538074.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >536299.1
+</td>
+
+<td >[Siebel Delivers - Email functionality](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=536299.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >493111.1
+</td>
+
+<td >[After upgrade Analytics Scheduler doesn't works](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=493111.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >518603.1
+</td>
+
+<td >[nQSError: 75007 Failed to send RCPT command. 501 5.5.4 Invalid Address](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=518603.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >489710.1
+</td>
+
+<td >[Siebel Delivers - Downloading of plain text does not download entire file](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=489710.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >536401.1
+</td>
+
+<td >[Delivers](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=536401.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >503410.1
+</td>
+
+<td >[Error while executing PDFRpcCall.processMessage](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=503410.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >513316.1
+</td>
+
+<td >[compression, encrypting and transmission with iBots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=513316.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >737072.1
+</td>
+
+<td >[ibots : All delivers jobs stay in running state, never complete](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=737072.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >542339.1
+</td>
+
+<td >[Can't run the schconfig.exe](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=542339.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >514577.1
+</td>
+
+<td >[Analytics Scheduler](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=514577.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >515066.1
+</td>
+
+<td >[Siebel analytics scheduler configuration](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=515066.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >749465.1
+</td>
+
+<td >[EC Iview - Image Missing on IBOTS](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=749465.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >505600.1
+</td>
+
+<td >[Using Informatica to call Siebel iBots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=505600.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >511134.1
+</td>
+
+<td >[iBots and Pivot Table reports](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=511134.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >482567.1
+</td>
+
+<td >[Delivers - change the default value displayed in a dropdown in a Delivers Administration View](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=482567.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >499270.1
+</td>
+
+<td >[Scheduler and minimum password length](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=499270.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >480128.1
+</td>
+
+<td >[Auto-caching dashboard pages: only SOME of the dashboard pages are being cached](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=480128.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >603643.1
+</td>
+
+<td >[Is there a way to choose which saved selection will be applied in Delivers?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=603643.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >490779.1
+</td>
+
+<td >[Siebel Analytics - Multiple Email](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=490779.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >506687.1
+</td>
+
+<td >[DELIVERS FUNCTIONALITY ISSUE](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=506687.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >522281.1
+</td>
+
+<td >[Ibot problem continues: ibots are not getting posted in the dashboard.](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=522281.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >485465.1
+</td>
+
+<td >[Clarification on End by scheduling for ibots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=485465.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >523492.1
+</td>
+
+<td >[Will delivers send a no result report](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=523492.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >530841.1
+</td>
+
+<td >[Trigerring Siebel Workflow with Siebel Analytics iBots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=530841.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >483644.1
+</td>
+
+<td >[Issue with the IBots](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=483644.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >20-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1270424.1
+</td>
+
+<td >[Missing Seeded Reports In Us Statutory Compliance Dashboard](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1270424.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >1262978.1
+</td>
+
+<td >[Hide 'Refresh' Button In BIEE Dashboards](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1262978.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >16-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >500391.1
+</td>
+
+<td >[Pie Chart](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=500391.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >528423.1
+</td>
+
+<td >[Saving Analytics Report to PDF files](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=528423.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+<tr >
+
+<td >501035.1
+</td>
+
+<td >[No takeover of prompt restrictions in PortalNavePage link](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=501035.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >18-JAN-11
+</td>
+</tr>
+</tbody>
+</table>

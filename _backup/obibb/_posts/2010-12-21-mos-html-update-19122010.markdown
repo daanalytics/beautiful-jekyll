@@ -1,0 +1,630 @@
+---
+author: makumbe
+comments: true
+date: 2010-12-21 08:32:59+00:00
+layout: post
+link: http://blog.daanalytics.nl/2010/12/21/mos-html-update-19122010/
+slug: mos-html-update-19122010
+title: MOS HTML Update 19122010
+wordpress_id: 678
+categories:
+- My Oracle Support
+- OBIBB - General
+tags:
+- MOS
+- obiee11g
+- Oracle BI EE
+---
+
+<table cellpadding="2" cellspacing="3" align="center" border="1" width="100%" >
+<tbody >
+<tr >
+ Document ID 
+ Title 
+ Doc Type 
+ Modified Date 
+</tr>
+<tr >
+
+<td >1274715.1
+</td>
+
+<td >[Is it Possible to Restrict Data to be Viewed by Administrator?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1274715.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273594.1
+</td>
+
+<td >[Error in OBIEE 11g Unable to Sign In: An error occurred during authentication](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273594.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1274964.1
+</td>
+
+<td >[OBI 11g - LDAP and semicolon-delimited string for Groups](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1274964.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273533.1
+</td>
+
+<td >[BIEE 11g Application Roles just Like BIAuthor, BIconsumer doesn't work](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273533.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272851.1
+</td>
+
+<td >[OBIEE 10.1.3.4.1 On Windows 2003 R2 X64 Fails With Javahost Error "%1 Is Not A Valid Win32 Application"](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272851.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >14-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273814.1
+</td>
+
+<td >["Error: [nQSError: 22006] Repository metadata: missing column object" implementing Event Polling after Upgrade To Obiee 10.1.3.4.1](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273814.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >14-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273401.1
+</td>
+
+<td >[Obiee 11g Roadmap](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273401.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1266888.1
+</td>
+
+<td >[The Installation of Oracle BI EE 11g 11.1.1.3 has Overview and Scorecard Errors in Sample Database Lite in Linux](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1266888.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1274220.1
+</td>
+
+<td >[Unable to connect to OBI EE 11.1.1.3.0 Server using Microsoft Query functionality in Excel](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1274220.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >15-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273534.1
+</td>
+
+<td >[Support Forobiee Version 10.1.3.3.1, Informatica 7.1.4 And Applciation Version 7.9.3](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273534.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1274299.1
+</td>
+
+<td >[Can OBIEE 11g Be Deployed On An Existing WebLogic 10.3.3 Installation?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1274299.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >16-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273913.1
+</td>
+
+<td >[Move from Test to Production in OBIEE 11G](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273913.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >15-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273790.1
+</td>
+
+<td >[Cannot execute schconfig command on Unix to set Database password](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273790.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >15-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273348.1
+</td>
+
+<td >[How To Remove 'For Others' Option In Saved Current Selection In Obiee](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273348.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >12-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1274965.1
+</td>
+
+<td >[Missing Page Level Refresh Option On Dashboard In Obiee 11g](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1274965.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >17-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273411.1
+</td>
+
+<td >[Page Break In An Obi Report](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273411.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1267009.1
+</td>
+
+<td >[Oracle Business Intelligence Enterprise Edition (OBIEE) Product Information Center (PIC)](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1267009.1)
+</td>
+
+<td >ALERT
+</td>
+
+<td >17-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1272902.1
+</td>
+
+<td >[Obiee Embedded In A Web Application Using iFrame returned "OBIEE content cannot be displayed in an IFrame?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1272902.1)
+</td>
+
+<td >SAMPLE CODE
+</td>
+
+<td >12-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273831.1
+</td>
+
+<td >[Incorrect Figures For Calculated Measures In A Request With An UNION ('Combine with similar requests')](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273831.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >15-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273345.1
+</td>
+
+<td >[Last Letter Of The Word Is Cut And Rendered In A New Line In Pdf Print](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273345.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >12-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1274757.1
+</td>
+
+<td >[BI Server Shutting Down Unexpectedly With Errors: 58005 Due to [nQSError: 52056] Can not get exclusive access to global space descriptor](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1274757.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >17-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1206791.1
+</td>
+
+<td >[Master Note for Print/Dowload issues in OBIEE](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1206791.1)
+</td>
+
+<td >ANNOUNCEMENT
+</td>
+
+<td >12-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1274586.1
+</td>
+
+<td >[Usage Tracking Insert In OBIEE 11g Fails With ORA-01704: String Literal Too Long](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1274586.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >16-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273898.1
+</td>
+
+<td >[Error When Using Oracle BI Odbc Driver and Visual Studio2008 Server Explorer Connection](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273898.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >14-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273439.1
+</td>
+
+<td >[Custom Image not displaying In Excel download](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273439.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >417656.1
+</td>
+
+<td >[How to Use Administration Tool that comes with OBI EE on Linux](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=417656.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >15-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1109474.1
+</td>
+
+<td >[Why is the BOM_EXPLOSION_TEMP table truncated in the OPI_OBIA_BOMEXPL_WRAPPER_PKG package?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1109474.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273408.1
+</td>
+
+<td >[Biapps 7.9.6.1 / Psft 8.9 - All W_gl_account_d.Account_seg#_name Are Not Populated](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273408.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1233273.1
+</td>
+
+<td >[Count and Time to Fill (Days) in Job Sourcing - Requisitions Appear to be Inconsistent](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1233273.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1110185.1
+</td>
+
+<td >[Product Hierarchy is not populated in OBIA 7.9.6 with EBS R12.1.1 as the source](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1110185.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1051353.1
+</td>
+
+<td >[AP dashboard Aging report receives "A numeric value was expected (received "0")" error](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1051353.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1274122.1
+</td>
+
+<td >[OBI EE Server will not start with the '[Nqserror: 15014] No Subject Area Is Available In The Repository Star' error as the RPD was corrupt during the BI Applications installation](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1274122.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >15-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1125394.1
+</td>
+
+<td >[W_GEO_D/DS Attributes Truncated](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1125394.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1274680.1
+</td>
+
+<td >[Oracle Business Intelligence Applications ETL Data Lineage Guide Release 7.9.6.2](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1274680.1)
+</td>
+
+<td >BULLETIN
+</td>
+
+<td >17-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1127573.1
+</td>
+
+<td >[Hard Deletes by the VisibilityContactParty_LoadDeletedRows Mapping are No Longer Occurring](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1127573.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1091281.1
+</td>
+
+<td >[How to configure the domainvalues_wrkfc_eventtype_psft.csv file ?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1091281.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273726.1
+</td>
+
+<td >[OBI Apps ETL Error Ora-01658 -- Unable To Create Initial Extent For Segment In Tablespace](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273726.1)
+</td>
+
+<td >HOWTO
+</td>
+
+<td >14-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1273793.1
+</td>
+
+<td >[OBIA Financials - AP/AR Netting - Accounts that have both AP and AR transactions in them](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1273793.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >14-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1125189.1
+</td>
+
+<td >[How to configure the Project customer in the Project Dimension?](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1125189.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1125454.1
+</td>
+
+<td >[Upgrading from 7.8.x to 7.9.6.1 Causes Duplicate ROW_WIDs in W_PARTY_D](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1125454.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1065031.1
+</td>
+
+<td >[OBIA796-SDE_ORA_CODEDIMENSION_VENDOR_TYPE task - "Command for Full Load" is blank in DAC](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1065031.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >555254.1
+</td>
+
+<td >[Enabling Action Links in Oracle Business Intelligence Applications for Oracle E-Business Suite](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=555254.1)
+</td>
+
+<td >BULLETIN
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+<tr >
+
+<td >1268621.1
+</td>
+
+<td >[Starting OBIEE 11g (11.1.1.3) On Windows Via The 'Start BI Service' Menu Continues To Prompt For Username And Password With boot.properties Configured](https://supporthtml.oracle.com/ep/faces/secure/km/DocumentDisplay.jspx?id=1268621.1)
+</td>
+
+<td >PROBLEM
+</td>
+
+<td >13-DEC-10
+</td>
+</tr>
+</tbody>
+</table>

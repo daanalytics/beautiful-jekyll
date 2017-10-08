@@ -1,0 +1,49 @@
+---
+author: makumbe
+comments: true
+date: 2010-06-22 18:32:13+00:00
+layout: post
+link: http://blog.daanalytics.nl/2010/06/22/214/
+slug: '214'
+title: Sorting the Month Name
+wordpress_id: 214
+categories:
+- Logical Layer
+tags:
+- Dimension
+- Oracle BI EE
+---
+
+I saw a post on the Oracle BI EE Forums today; [Sorting month name](http://forums.oracle.com/forums/thread.jspa?threadID=1089358&tstart=0)[](http://obibb.files.wordpress.com/2010/06/month_sorth_answer_query.png)[](http://obibb.files.wordpress.com/2010/06/month_name_sort_lc.png). There were various solutions to the question. I think [Kishore Guggilla ](http://bischool.wordpress.com/)came up with the best solution, so he deserves all the credits.
+
+Although, it’s a very easy solution to a very simple ‘problem’, I thought I write a little post about the subject, because the solution can be used very often. Not only in a month sort.
+
+Picture the following. I have created a dimension table with month names and month numbers.
+
+[![](http://obibb.files.wordpress.com/2010/06/dim_month_query.png?w=300)](http://obibb.files.wordpress.com/2010/06/dim_month_query.png)
+
+Based on this dimension table I have created the following Business Model.
+
+[![](http://obibb.files.wordpress.com/2010/06/month_sorth_bm.png?w=270)](http://obibb.files.wordpress.com/2010/06/month_sorth_bm.png)
+
+Now we can create a simple report with the month names.
+
+_**[![](http://obibb.files.wordpress.com/2010/06/month_sorth_answer.png?w=192)](http://obibb.files.wordpress.com/2010/06/month_sorth_answer.png)**_
+
+_A_s you can see the month names ar sorted alphabetically. We can verify that by the query fired.
+
+[![](http://obibb.files.wordpress.com/2010/06/month_sorth_answer_query.png?w=300)](http://obibb.files.wordpress.com/2010/06/month_sorth_answer_query.png)
+
+If we want to sort the month names based on theire month number, we have various options. As said before I like the solution via the repository. In the repository you can sort a column, using another column. Just change the properties of the logical column. Now the BI Server knows that it hast to sort the month name via the month number.
+
+[![](http://obibb.files.wordpress.com/2010/06/month_name_sort_lc.png?w=300)](http://obibb.files.wordpress.com/2010/06/month_name_sort_lc.png)
+
+Now we can create the same simple report with the month names.
+
+[![](http://obibb.files.wordpress.com/2010/06/month_sorth_answer_sort_column.png?w=196)](http://obibb.files.wordpress.com/2010/06/month_sorth_answer_sort_column.png)
+
+As you can see now the month names ar sorted by month number. We can verify that by the query fired.
+
+[![](http://obibb.files.wordpress.com/2010/06/month_sorth_answer_query_sort_column.png)](http://obibb.files.wordpress.com/2010/06/month_sorth_answer_query_sort_column.png)
+
+Easy but powerful in some cases.

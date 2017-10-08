@@ -1,0 +1,24 @@
+---
+author: makumbe
+comments: true
+date: 2014-12-30 12:50:10+00:00
+layout: post
+link: http://blog.daanalytics.nl/2014/12/30/2014-in-review/
+slug: 2014-in-review
+title: Oracle BI By Bakboord - 2014 in review
+wordpress_id: 1854
+categories:
+- OBIBB - General
+---
+
+The WordPress.com stats helper monkeys prepared a 2014 annual report for this blog.
+
+[![](//s0.wp.com/wp-content/mu-plugins/annual-reports/img/2014-emailteaser.png)](http://obibb.wordpress.com/2014/annual-report/)
+
+Here's an excerpt:
+
+
+<blockquote>Madison Square Garden can seat 20,000 people for a concert. This blog was viewed about **68,000** times in 2014. If it were a concert at Madison Square Garden, it would take about 3 sold-out performances for that many people to see it.</blockquote>
+
+
+[Click here to see the complete report.](http://obibb.wordpress.com/2014/annual-report/)
