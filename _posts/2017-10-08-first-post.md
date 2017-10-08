@@ -10,5 +10,3 @@ Welcome to the DaAnalytics Blog. My name is [Daan Bakboord](http://www.daanbakbo
 More to come.
 
 [Daan Bakboord](http://www.daanbakboord.com)
-
-
