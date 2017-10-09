@@ -9,7 +9,7 @@ title: About Daan Bakboord
 wordpress_id: 2
 ---
 
-I am currently working as an Oracle Business Analytics Managing (Applications) Consultant for Quistor in the Netherlands. I joined Quistor to help expanding the Oracle Business Analytics Practice within this company. Because of DNA of Quistor I will have a strong focus on Oracle Business Analytics (OBIEE, BICS and OBIA) and Oracle JDEdwards.
+I am currently working as an Oracle Big Data Analytics Managing Consultant for [Quistor](http://www.quistor.com) in the Netherlands. I joined Quistor to help expanding the Oracle Business Analytics Practice within this company. Because of DNA of [Quistor](http://www.quistor.com) I will have a strong focus on Oracle Big Data Analytics (OBIEE, BICS, Big Data, Data Integration, Data Visualization) and Oracle JDEdwards.
 
 I am certified as Oracle Business Intelligence Foundation Implementation Specialist ([1Z0-526](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=41&p_org_id=15942&lang=US&p_exam_id=1Z0_526)) and Oracle BIA - Oracle Business Intelligence Applications 7 for ERP Certified ([1Z0-525](http://www.oracle.com/partners/en/knowledge-zone/database/oracle-epm-and-bi/bierp-essentials-168600.html))  Implementation Specialist
 
