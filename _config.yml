@@ -17,7 +17,7 @@ baseurl: ""
 title: DaAnalytics Blog
 
 # Short description of your site
-description: The experiences of Daan Bakboord in the world of Oracle Data & Analytics.
+description: The experiences of Daan Bakboord in the world of Data & Analytics.
 
 # --- Navigation bar options --- #
 
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/DaAnalytics_300x300_Logo_Icon_Twitter.png"
+avatar: "/img/DaAnalytics Icon Logo - gray.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -57,7 +57,7 @@ navbar-col: "#FEF1E6"
 author:
   name: Daan Bakboord
   email: "info@daanalytics.nl"
-  #facebook: yourname  # eg. daattali
+  facebook: daanalytics  # eg. daattali
   github: daanalytics    # eg. daattali
   twitter: daanalytics_nl   # eg. daattali
   #reddit: yourname    # eg. daattali
@@ -66,7 +66,7 @@ author:
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
-  #instagram: yourname # eg. daattali
+  instagram: daanalytics # eg. daattali
   #youtube: yourlink   # eg. user/daattali or channel/daattali
   #spotify: yourname   # eg. daattali
   #telephone: yourphone   # eg. +14159998888
@@ -77,7 +77,7 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false
+  facebook: true
   email: true
   twitter: true
   google-plus: true
@@ -87,7 +87,7 @@ footer-links-active:
   xing: false
   stackoverflow: false
   snapchat: false
-  instagram: false
+  instagram: true
   youtube: false
   spotify: false
   telephone: false
@@ -98,9 +98,10 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  facebook: true
   google: true
   linkedin: true
+  instagram: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -111,10 +112,10 @@ url-pretty: "daanalytics.nl"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-139658016-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-WBRKHM2"
 
 # Facebook App ID
 # fb_app_id: ""
