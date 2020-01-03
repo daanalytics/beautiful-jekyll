@@ -13,7 +13,7 @@ In this folder the following scripts:
 * Creating Warehouses; [**Warehouses.sql**](https://github.com/daanalytics/snowflake/blob/master/setup/Warehouses.sql) 
 * Creating Databases; [**Databases.sql**](https://github.com/daanalytics/snowflake/blob/master/setup/Databases.sql)
 
-![Snowflake SandBox](https://github.com/daanalytics/daanalytics.github.io/img/SnowflakeSandBox.png)
+![Snowflake SandBox](https://github.com/daanalytics/daanalytics.github.io/blob/master/img/SnowflakeSandBox.png)
 
 Next, follow Venkatesh Sekar's tips and try the following:
 
