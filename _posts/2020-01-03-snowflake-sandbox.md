@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Untitled
+title: Setting up a Snowflake Sandbox environment
 ---
 # Setting up a Snowflake Sandbox environment
 
