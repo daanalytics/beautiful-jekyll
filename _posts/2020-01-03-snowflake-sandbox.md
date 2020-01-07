@@ -1,3 +1,8 @@
+---
+layout: post
+published: false
+title: Untitled
+---
 # Setting up a Snowflake Sandbox environment
 
 Find scripts and snippets in this folder to setup and get started with Snowflake. This peace is inspired by the following blogpost by Venkatesh Sekar from [**Hashmapinc**](https://medium.com/hashmapinc/heres-your-day-1-and-2-checklist-for-snowflake-adoption-e0e7ff8f105a)
@@ -13,7 +18,7 @@ In this folder the following scripts:
 * Creating Warehouses; [**Warehouses.sql**](https://github.com/daanalytics/snowflake/blob/master/setup/Warehouses.sql) 
 * Creating Databases; [**Databases.sql**](https://github.com/daanalytics/snowflake/blob/master/setup/Databases.sql)
 
-![Snowflake SandBox](https://github.com/daanalytics/daanalytics.github.io/blob/master/img/SnowflakeSandBox.png)
+![Snowflake SandBox](https://raw.githubusercontent.com/daanalytics/daanalytics.github.io/master/img/SnowflakeSandBox.png)
 
 Next, follow Venkatesh Sekar's tips and try the following:
 
