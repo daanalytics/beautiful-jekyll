@@ -6,7 +6,7 @@ A Gartner Magic Quadrant positions technolog players within a specific market. R
 
 According to several Gartner Analysts one should keep the following in mind:
 
-![](/Users/daanalytics/Storage/Cloud/OneDrive - PONG B.V/Daanalytics/Blog/Pictures/Magic Quadrant for Analytics and Business Intelligence Platforms 2021.svg)
+![](https://github.com/daanalytics/daanalytics.github.io/blob/adf4a765e03962a703aa12042a707b5c591e78f5/img/Magic%20Quadrant%20for%20Analytics%20and%20Business%20Intelligence%20Platforms%202021.svg)
 
 1. Read the accompanied note. Do not only look at the graphic. The accompanied note gives additional background, so you understand why choiices are made. 
 2. Consider all vendors, not just the Leaders Quadrant. It's interesting to read and understand what the vendors in the Challengers-, Visionaries- or Niche Players Quadrant have to offer.
